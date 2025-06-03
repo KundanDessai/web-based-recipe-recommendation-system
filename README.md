@@ -28,8 +28,8 @@ An intelligent **web-based recipe recommendation system** built using **Python**
 
 1. **Clone the Repository**  
     ```bash
-    git clone https://github.com/yourusername/recipe-recommender.git
-    cd recipe-recommender
+    git clone https://github.com/KundanDessai/web-based-recipe-recommendation-system.git
+    cd web-based-recipe-recommendation-system
     ```
 
 2. **Create a Virtual Environment (recommended)**  
